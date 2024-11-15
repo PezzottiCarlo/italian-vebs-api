@@ -1,7 +1,3 @@
-Here's a README for the code you provided, written in English:
-
----
-
 # Italian Verb Conjugation Extractor
 
 This project is designed to extract Italian verb conjugations and find the infinitive form of a conjugated verb from a given dataset. The script scrapes verb data from a website, processes it, and provides the ability to identify the infinitive form from conjugated verb inputs.
